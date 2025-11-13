@@ -38,7 +38,7 @@ function Contact() {
   };
 
   return (
-    <div className="w-[75%] md:w-[25%] flex flex-col justify-center gap-4 text-2xl md:text-base pt-12 md:pt-0">
+    <div className="w-[75%] md:w-[25%] flex flex-col justify-center gap-4 pt-12 md:pt-0">
       <header className="font-semibold text-5xl -ml-6">Contact</header>
       <form onSubmit={sendEmail} className="flex flex-col gap-2">
         <div className={group}>
