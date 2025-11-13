@@ -11,7 +11,7 @@ function Links() {
       </a>
       <a
         className={`bg-blue-500 text-white ${links}`}
-        href="https://drive.google.com/uc?export=download&id=1M7Jy-aJOb8bj4UziTlhhsg2-QeJ_Rprc"
+        href="https://drive.google.com/file/d/1Vx10v4F9m6rkAyJLNjDn9u6vzvmYEIBm/view?usp=drive_link"
       >
         <FaArrowCircleDown />
         Download CV
