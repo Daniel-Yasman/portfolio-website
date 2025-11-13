@@ -8,7 +8,7 @@ import Education from "./pages/Education";
 
 function App() {
   return (
-    <div className="overflow-x-hidden w-screen h-screen pt-4 flex gap-4 flex-col items-center">
+    <div className="overflow-x-hidden w-screen h-screen pt-4 pb-5 md:pb-0 flex gap-4 flex-col items-center">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />

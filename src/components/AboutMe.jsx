@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function AboutMe() {
   return (
-    <div className="flex flex-col w-xs text-center md:text-left md:w-xl">
+    <div className="flex flex-col w-2xs md:w-xl ">
       <p>
         Hello, I’m Daniel. I’m a recent software engineering graduate with
         training in full-stack development and manual QA, now expanding into
