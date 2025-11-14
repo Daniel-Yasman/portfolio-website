@@ -1,6 +1,6 @@
 function Education() {
   return (
-    <div className="text-sm flex w-sm md:w-lg flex-col gap-4">
+    <div className="text-sm flex w-xs md:w-lg flex-col gap-4">
       <header className="font-semibold text-4xl">Education</header>
 
       <p>
