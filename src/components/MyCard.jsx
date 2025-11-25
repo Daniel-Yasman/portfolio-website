@@ -14,7 +14,7 @@ function MyCard() {
           Daniel Yasman
         </header>
         <span className={span}>
-          <FaUser className={icons} /> Junior Full-Stack & QA Engineer
+          <FaUser className={icons} /> Junior Full-Stack Developer
         </span>
         <span className={span}>
           <FaLocationArrow className={icons} />

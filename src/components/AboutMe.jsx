@@ -5,8 +5,7 @@ function AboutMe() {
     <div className="flex flex-col w-2xs md:w-xl ">
       <p>
         Hello, I’m Daniel. I’m a recent software engineering graduate with
-        training in full-stack development and manual QA, now expanding into
-        test automation. Open to roles in development or quality assurance.
+        training in full-stack development. Open to roles in development.
       </p>
       <br />
       <p>
